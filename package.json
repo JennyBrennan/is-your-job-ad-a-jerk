@@ -1,0 +1,14 @@
+{
+  "name": "is-your-job-ad-a-jerk",
+  "version": "1.0.0",
+  "description": "Figuring out if your job ad is a jerk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node ./spec"
+  },
+  "author": "Jenny, Nik",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
